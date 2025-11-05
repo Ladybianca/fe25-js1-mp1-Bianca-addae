@@ -1,1 +1,2 @@
-# fe25-js1-mp1-Bianca-addae
+* Mini projekt
+Jag har återskapat en bild med hjälp av Javascript och CSS. 
